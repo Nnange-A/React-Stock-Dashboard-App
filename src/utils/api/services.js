@@ -1,4 +1,4 @@
-const API_KEY = import.meta.env.VITE_ALPHAVANTAGE_API_KEY;
+const API_KEY = "VM91HIBW4IOPWZ66";
 
 
 export const getStockData = async (symbol) => {
